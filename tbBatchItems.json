@@ -1,0 +1,32 @@
+{
+    "tbBatchItems":[
+       {
+          "name":"Susan Smith",
+          "email":"ssmith@comany1.com",
+          "password":"susan12%#?",
+          "role":"SuperUser",
+          "reasonForAccess":"Because I am \"cool\", I can do whatever I want."
+       },
+       {
+          "name":"Alex O'Connor",
+          "email":"alexoconnor@univ1.edu",
+          "password":"itsuniv1",
+          "role":"ReadOnly",
+          "reasonForAccess":"I need to access report for budget < 1M $"
+       },
+       {
+          "name":"John J. Peterson",
+          "email":"john.p@comany2.com",
+          "password":"J.Pe1234!",
+          "role":"Auditor",
+          "reasonForAccess":"Access to 1) all reports; 2) server system logs for \"Audit\" and [app]_Access_Log"
+       },
+       {
+          "name":"Chen, Mei 陈梅",
+          "email":"chehmei12@123.com",
+          "password":"<:-)>{;=0}",
+          "role":"ReadOnly",
+          "reasonForAccess":"我负责中国分公司财务"
+       }
+    ]
+ }
